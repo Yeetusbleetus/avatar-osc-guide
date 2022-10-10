@@ -3,6 +3,7 @@
 ## Downloading And Running The Program
 
 Head to the releases tab and download the latest version.
+<https://github.com/Yeetusbleetus/avatar-osc-guide/releases>
 Go to your downloads folder and run the program, it will automatically update to the latest version.
 
 Remember to enable OSC in the action menu in-game.
